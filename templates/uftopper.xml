@@ -1,0 +1,10 @@
+<meta charset="utf-8" />
+<!-- Google Chrome Frame open source plug-in brings Google Chrome's open web technologies and speedy JavaScript engine to Internet Explorer-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<div style="width:100%;height:35px;" id="uftopper">
+    <img style="position:absolute;z-index:0;margin-left:0px; padding:0px; width:inherit; height:50px" src="${urls.theme}/images/graybar.png" />
+	<div style="position:relative;margin-right:auto;margin-left:auto;width:930px;height:35px">
+	    <a href="http://www.uflib.ufl.edu"><img style="position:relative;z-index:1;float:left;width:400" src="${urls.theme}/images/logo-smathers.png"/></a>
+	    <a href="http://www.ufl.edu"> <img style="position:relative;z-index:1; float:right; width:181;" src="${urls.theme}/images/universityOfFlorida.png"/></a>
+	</div>
+</div>
