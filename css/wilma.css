@@ -1458,3 +1458,15 @@ color: #2485AE;
     color: #f00;
     font-weight: bold;
 }
+
+ul.answers {
+  list-style-type: disc;
+  padding-left: 40px;
+}
+
+div#about h1 {
+  font-size: 2em;
+  color: #064D68;
+  padding-top: 12px;
+  padding-bottom: 10px;
+}
