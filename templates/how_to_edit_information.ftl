@@ -1,7 +1,3 @@
-<html>
-
-	<title>How Do I Edit Information In VIVO</title>
-
 		<h2><strong>Editing information in VIVO</strong></h2>
 
 			<h3><strong>How do I use VIVO?</strong></h3>
