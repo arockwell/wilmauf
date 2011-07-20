@@ -6,12 +6,8 @@
 
 			<h3><strong>How do I get my information into VIVO?</strong></h3> 
 
-				<p>All UF faculty and staff are automatically included in VIVO. To edit your information, log in with your Gatorlink Username and password, and follow the on-screen prompts.</p>
-				<p>You may also send your CV to <a href="mailto:vivo@uflib.ufl.edu">vivo@uflib.ufl.edu</a>, and through <strong>August31</strong> the VIVO team will include the following information on your VIVO profile: educational background, previous positions, research interests, awards, photos, and alternate email address. Please send this information and a picture to <a href="mailto:vivo@uflib.ufl.edu">vivo@uflib.ufl.edu</a>.</p>
-
-			<h3><strong>How can students use VIVO?</strong></h3>
-
-				<p>Students can search VIVO for faculty mentors, organizations, research interests, and more. Students can request a VIVO profile by emailing their name, UFID, and Gatorlink information to <a href="mailto:vivo@uflib.ufl.edu">vivo@uflib.ufl.edu</a></p>
+				<p>All UF faculty and staff are automatically included in VIVO. To edit your information, log in with your Gatorlink username and password, and follow the on-screen prompts.</p>
+				<p>You may also send your CV to <a href="mailto:vivo@uflib.ufl.edu">vivo@uflib.ufl.edu</a>, and the VIVO team will include the following information on your VIVO profile: educational background, previous positions, research interests, awards, photos, and alternate email address, if any. Please send this information and a picture to <a href="mailto:vivo@uflib.ufl.edu">vivo@uflib.ufl.edu</a>.</p>
 
 			<h3><strong>How do I log in to edit my profile</strong></h3>
 
@@ -19,48 +15,29 @@
 
 			<h3><strong>How do I change how my name appears in VIVO?</strong></h3>
 
-				<p>Your name is obtained in VIVO from UF Human Resources data. To change how your name is displayed in VIVO, you must change the way your name is displayed in the UF directory. To do this, log in to <a href="http://my.ufl.edu">http://my.ufl.edu.</a> Select "My Account" from the Main Menu. Select "Update My Directory Profile" and change your name to what you would like to appear in VIVO. This change will be reflected in VIVO upon the next data refresh.</p>
-
-			<h3><strong>How do I customize my VIVO URL?</strong></h3>
-
-				<p>You can customize your UFL for your business card by following this format:</p>
-				<p><a href="http://vivo.ufl.edu/display/gatorlinkusername">http://vivo.ufl.edu/display/gatorlinkusername.</a></p>
-
-			<h3><strong>How do I add my school/organization to the drop down list?</strong></h3>
-
-				<p>Log in to your VIVO profile. Select the pencil icon to the right of the profile field you wish to edit. YOu will have the option to select an existing school/organization from the list, or to add a new school/organization. Add your organization. Save your Changes.</p>
+				<p>Your name is obtained in VIVO from the UF directory. To your name there, log in to <a href="http://my.ufl.edu">http://my.ufl.edu.</a> Select "My Account" from the Main Menu. Select "Update My Directory Profile" and change your preferred name. This change will be reflected in VIVO upon the next data refresh.
 
 			<h3><strong>How can I add contact information to my profile?</strong></h3>
-
-				<p>Log into your VIVO profile. Select the "+" next to the "Email" and "Phone" fields. Enter the complete email address and/or phone number, and save the entry.</p>
-
-			<h3><strong>How can I edit the information on my profile?</strong></h3>
-
-				<p>First, log in with your Gatorlink Username and Password. Next, select the profile field you wish to edit, such as "Clinical Activities.+ To add information, select the "+" icon next to the field you wish to edit. Follow the prompts on the screen to add relevant information. Save your changes and they will appear on your profile. To remove information, select the garbage can icon next to the field you wish to delete. Confirm that you wish to delete the information, and it changes will appear in your profile.</p>
+				<p>Log into your VIVO profile. Select the "+" next to the "Email" and "Phone" fields. Enter the complete email address and/or phone number, and save the entry.
 
 			<h3><strong>How do I add patents or other information to my profile?</strong></h3>
 
-				<p>Log in to your VIVO profile. Scroll down to the "Publications" field. Select the "+" icon. VIVO will prompt you to select a publication type. For patents, select "patent" from the drop down menu. For other publications, such as academic articles, conference posters, or books, select the appropriate option from the drop down menu. Add the title of your publication. Select "Create publication." The publication will then appear on your VIVO profile. Select the publication from your VIVO profile. You can then add information such as additional authors, features, abstract, edition, date, and more.</p>
-
-			<h3><strong>How do I add publications to my profile?</strong></h3>
-
-				<p>Sign in using your Gatorlink Username and password. Scroll down to the publications area of your profile. Click the "+" icon to add publications. You will have the opportunity to enter as many publications as you wish.</p>
+				<p>Log in to your VIVO profile. Scroll down to the "Publications" field. Select the "+" icon. VIVO will prompt you to select a publication type. For patents, select "patent" from the drop down menu. Enter the title and then press Create. On your profile screen, press the Edit (Pencil) icon next to the new patent entry. Enter the information for your patent and press Save.</p> 
 
 			<h3><strong>How do I update my research interests?</strong></h3>
 
-				<p>Sign into VIVO using your Gatorlink Username and password. Scroll down to research interests. CLick on the "+" icon . Enter your interests and press save.</p>
-
-			<h3><strong>Where can I put my society memberships? What about my committee work?</strong></h3>
-				
-				<p>Log in with your Gatorlink Username and password. Place your membership information in the field "MemberOf." Committee work should be placed in the "service" field.</p>
+				<p>Log in with your Gatorlink username and password.Select Affiliation, then click the “+” (Add)
+sign next to Member Of. Select your membership type and press create. Edit the membership to
+reflect the organization or committee of which you are a member, adding date ranges and other
+information about your membership as needed. Press Save.</p>
 
 			<h3><strong>How can I upload files to my VIVO profile?</strong></h3>
 
-				<p>You can load files to the Institutional Repository at UF(<a href="http://ufdc.ufl.edu/ufirg">http://ufdc.ufl.edu/ufirg</a>) and then link to your articles, conference posters, presentations, etc. on your VIVO profile.</p>
+				<p>You can load files to the Institutional Repository at UF(http://ufdc.ufl.edu/ufirg). The Instititional Repository can store your PDFs, presentation files and other material. Each item you store will be given a URL (Internet address) by the Institutional Repository. This URL is permanent. Once your item is stored in the Institutional Repository and you have its URL, you can create a searchable, linked item in VIVO for your profile. Create the item and for your article, conference poster, presentation, etc. on your VIVO profile. When creating your item, click on the “+” sign next to “Primary Web Page” Add the url of your item from the institutional repository. Press save.</p>
 
 			<h3><strong>How do I upload my photo?</strong></h3>
 
-				<p>First, log into VIVO with your Gatorlink Username and password. This will direct you to your profile. To upload a photo for the first time, select the pencil icon in the upper left corner of the picture box.  VIVO 1.2 photos can be JPEG, GIF, or PNG files, and cannot be larger than 6 MB. Photos must also be 200 x 200 pixels. To delete an existing photo and replace it, first select the trashcan icon in the upper left corner of the picture, then upload a new photo. </p>
+				<p>First, log into VIVO with your Gatorlink username and password. Go to your profile (via search, saved URL, or browse). To upload a photo, select the pencil icon in the upper left corner of the picture box. VIVO photos can be JPEG, GIF, or PNG files, and cannot be larger than 6 MB. To replace an existing photo, delete the existing photo using the trash can icon. Upload a new photo.</p>
 
 			<h3><strong>How do I become a proxy editor for a department?</strong></h3>
 
@@ -68,9 +45,9 @@
 
 			<h3><strong>How do I sign out of VIVO?</strong></h3>
 
-				<p>To sign out of VIVO, select "Log out" from the navigation panel on the top of the screen.</p>
+				<p>To sign out of VIVO, select "Log out" from the navigation panel on the top of the window.</p>
 
-		<h2><strong><u>Search for information in VIVO</u></strong></h2>
+		<h2><strong>Search for information in VIVO</strong></h2>
 
 			<h3><strong>Do I have to log in to search VIVO?</strong></h3>
 
@@ -87,5 +64,5 @@
 
 			<h3><strong>How can I link my VIVO profile to my web page?</strong></h3>
 
-				<p>You can link your VIVO profile to as many web sites of interests as you wish. SImply use this URL format with your Gatorlink Username in the "gatorlink  username" seciont:</p>
+				<p>You can link your VIVO profile to as many web sites of interest as you wish. Simply use the URL format below, replacing "gatorlinkusername" with your own GatorLink username:</p>
 				<p><a href="http://vivo.ufl.edu/display/gatorlinkusername">http://vivo.ufl.edu/display/gatorlinkusername.</a></p>

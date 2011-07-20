@@ -115,19 +115,13 @@
 				</ul>
 			<h2><strong>Does VIVO have a Facebook or Twitter page?</strong></h2>
 
-				<ul class="answers">
+				<p>Yes! Connect with VIVO on <a href="http://www.facebook.com/VIVOCollaboration">www.facebook.com/VIVOCollaboration</a> and follow VIVO on Twitter at <a href="http://twitter.com/VIVOCollab">http://twitter.com/VIVOCollab</a>. You can also stay up-to-date on VIVO developments at the VIVO blog: <a href="http://vivoweb.org/blog">http://vivoweb.org/blog</a>. You can also check out the SourceForge community project site at <a href="http://vivo.sourceforge.net/">http://vivo.sourceforge.net</a>.
+				</p>
 
-					<li>Yes! Connect with VIVO on <a href="http://www.facebook.com/VIVOCollaboration">www.facebook.com/VIVOCollaboration</a> and follow VIVO on Twitter at <a href="http://twitter.com/VIVOCollab">http://twitter.com/VIVOCollab</a>. You can also stay up-to-date on VIVO developments at the VIVO blog: <a href="http://vivoweb.org/blog">http://vivoweb.org/blog</a>. You can also check out the SourceForge community project site at <a href="http://vivo.sourceforge.net/">http://vivo.sourceforge.net</a>.
-
-				</ul>
 
 			<h2><strong>Whom can I contact with questions about VIVO?</strong></h2>
 
-				<ul class="answers">
-		
-					<li>Contact the VIVO team here: <a href="http://vivo.ufl.edu/contact">http://vivo.ufl.edu/contact</a>.
-
-				</ul>
+				<p>Contact the VIVO team here: <a href="http://vivo.ufl.edu/contact">http://vivo.ufl.edu/contact</a>.</p>
 
 		<h1>VIVO Data</h1>
 
