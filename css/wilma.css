@@ -1464,6 +1464,11 @@ ul.answers {
   padding-left: 40px;
 }
 
+ol.answers {
+  list-style-type: decimal;
+  padding-left: 40px;
+}
+
 div#about h1 {
   font-size: 2em;
   color: #064D68;
